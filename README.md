@@ -12,7 +12,7 @@ StudentResponseObject Class:<br >
   - The utmost layer of the layered architecture web server<br >
   - Responsible for checking validity of inputs for the methods. (Methods return IResponse with responseCode and responseString
   representative of the outcome)<br >
-  - Methods include getStudent(),getAllStudent(),removeStudent(),addStudent(),updateStudent(),getResponse(),setResponse(),setService(), and getService()
+  - Methods include getStudent(),getAllStudent(),removeStudent(),addStudent(),updateStudent(),getResponse(),setResponse(),setService(), and getService()v<br>
 **Service Class:**<br >
   - Receives requests from the Controller class and relays it to the Database class. Will then receive a message from the Database class and relay it to the Controller Class. <br >
   - The middle layer of the layered architecture web server<br >
