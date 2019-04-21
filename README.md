@@ -1,6 +1,6 @@
 # Programming Assignment 7 In the respective order, these classes are able to:
 BaseResponse Class:<br >/
-	- has responseCode and responseString variables inherited by StudentResponseString and StudentResponseObject subclasses <br >/
+- has responseCode and responseString variables inherited by StudentResponseString and StudentResponseObject subclasses <br >/
 	- Used by Controller class to indicate success or failure of method. <br >/
 StudentResponseString Class: <br >/
 	- Used by Controller when getting Student as a string<br >/
